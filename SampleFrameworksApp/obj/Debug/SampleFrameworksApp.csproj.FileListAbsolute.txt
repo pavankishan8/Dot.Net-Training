@@ -1,0 +1,7 @@
+D:\Starmark-Pavan R\DotNet\CompleteDotNetTraining\SampleFrameworksApp\bin\Debug\SampleFrameworksApp.exe.config
+D:\Starmark-Pavan R\DotNet\CompleteDotNetTraining\SampleFrameworksApp\bin\Debug\SampleFrameworksApp.exe
+D:\Starmark-Pavan R\DotNet\CompleteDotNetTraining\SampleFrameworksApp\bin\Debug\SampleFrameworksApp.pdb
+D:\Starmark-Pavan R\DotNet\CompleteDotNetTraining\SampleFrameworksApp\obj\Debug\SampleFrameworksApp.csprojAssemblyReference.cache
+D:\Starmark-Pavan R\DotNet\CompleteDotNetTraining\SampleFrameworksApp\obj\Debug\SampleFrameworksApp.csproj.CoreCompileInputs.cache
+D:\Starmark-Pavan R\DotNet\CompleteDotNetTraining\SampleFrameworksApp\obj\Debug\SampleFrameworksApp.exe
+D:\Starmark-Pavan R\DotNet\CompleteDotNetTraining\SampleFrameworksApp\obj\Debug\SampleFrameworksApp.pdb
