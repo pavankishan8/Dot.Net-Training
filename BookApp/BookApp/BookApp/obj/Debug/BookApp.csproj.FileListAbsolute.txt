@@ -1,0 +1,7 @@
+D:\Starmark-Pavan R\DotNet\CompleteDotNetTraining\BookApp\BookApp\BookApp\obj\Debug\BookApp.csprojAssemblyReference.cache
+D:\Starmark-Pavan R\DotNet\CompleteDotNetTraining\BookApp\BookApp\BookApp\obj\Debug\BookApp.csproj.CoreCompileInputs.cache
+D:\Starmark-Pavan R\DotNet\CompleteDotNetTraining\BookApp\BookApp\BookApp\bin\Debug\BookApp.exe.config
+D:\Starmark-Pavan R\DotNet\CompleteDotNetTraining\BookApp\BookApp\BookApp\bin\Debug\BookApp.exe
+D:\Starmark-Pavan R\DotNet\CompleteDotNetTraining\BookApp\BookApp\BookApp\bin\Debug\BookApp.pdb
+D:\Starmark-Pavan R\DotNet\CompleteDotNetTraining\BookApp\BookApp\BookApp\obj\Debug\BookApp.exe
+D:\Starmark-Pavan R\DotNet\CompleteDotNetTraining\BookApp\BookApp\BookApp\obj\Debug\BookApp.pdb

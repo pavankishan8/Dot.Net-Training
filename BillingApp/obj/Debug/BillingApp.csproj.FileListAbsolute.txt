@@ -1,0 +1,6 @@
+D:\Starmark-Pavan R\DotNet\CompleteDotNetTraining\BillingApp\bin\Debug\BillingApp.exe.config
+D:\Starmark-Pavan R\DotNet\CompleteDotNetTraining\BillingApp\bin\Debug\BillingApp.exe
+D:\Starmark-Pavan R\DotNet\CompleteDotNetTraining\BillingApp\bin\Debug\BillingApp.pdb
+D:\Starmark-Pavan R\DotNet\CompleteDotNetTraining\BillingApp\obj\Debug\BillingApp.csproj.CoreCompileInputs.cache
+D:\Starmark-Pavan R\DotNet\CompleteDotNetTraining\BillingApp\obj\Debug\BillingApp.exe
+D:\Starmark-Pavan R\DotNet\CompleteDotNetTraining\BillingApp\obj\Debug\BillingApp.pdb

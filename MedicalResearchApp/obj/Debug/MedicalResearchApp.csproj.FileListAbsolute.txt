@@ -1,0 +1,7 @@
+D:\Starmark-Pavan R\DotNet\CompleteDotNetTraining\MedicalResearchApp\bin\Debug\MedicalResearchApp.exe.config
+D:\Starmark-Pavan R\DotNet\CompleteDotNetTraining\MedicalResearchApp\bin\Debug\MedicalResearchApp.exe
+D:\Starmark-Pavan R\DotNet\CompleteDotNetTraining\MedicalResearchApp\bin\Debug\MedicalResearchApp.pdb
+D:\Starmark-Pavan R\DotNet\CompleteDotNetTraining\MedicalResearchApp\obj\Debug\MedicalResearchApp.csprojAssemblyReference.cache
+D:\Starmark-Pavan R\DotNet\CompleteDotNetTraining\MedicalResearchApp\obj\Debug\MedicalResearchApp.csproj.CoreCompileInputs.cache
+D:\Starmark-Pavan R\DotNet\CompleteDotNetTraining\MedicalResearchApp\obj\Debug\MedicalResearchApp.exe
+D:\Starmark-Pavan R\DotNet\CompleteDotNetTraining\MedicalResearchApp\obj\Debug\MedicalResearchApp.pdb
