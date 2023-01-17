@@ -1,0 +1,7 @@
+D:\Starmark-Pavan R\DotNet\CompleteDotNetTraining\Shopping App\bin\Debug\Shopping App.exe.config
+D:\Starmark-Pavan R\DotNet\CompleteDotNetTraining\Shopping App\bin\Debug\Shopping App.exe
+D:\Starmark-Pavan R\DotNet\CompleteDotNetTraining\Shopping App\bin\Debug\Shopping App.pdb
+D:\Starmark-Pavan R\DotNet\CompleteDotNetTraining\Shopping App\obj\Debug\Shopping App.csprojAssemblyReference.cache
+D:\Starmark-Pavan R\DotNet\CompleteDotNetTraining\Shopping App\obj\Debug\Shopping App.csproj.CoreCompileInputs.cache
+D:\Starmark-Pavan R\DotNet\CompleteDotNetTraining\Shopping App\obj\Debug\Shopping App.exe
+D:\Starmark-Pavan R\DotNet\CompleteDotNetTraining\Shopping App\obj\Debug\Shopping App.pdb
